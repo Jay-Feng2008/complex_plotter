@@ -1,6 +1,6 @@
 # complex_plotter
 # Useage and images
-Open a terminal window and type `complexPlt`, then it should open a 'nano' editor. (shown in the image)
+Open a terminal window and type `complexPlt`, then it should open a 'nano' editor. (shown in the image)        
 ![ ](http://github.com/Jay-Feng2008/complex_plotter/tree/main/complex%20plotter/setting.png)
 Type in  the parameters and save.      
 The softwere will open a series of windows as shown in the image below        
