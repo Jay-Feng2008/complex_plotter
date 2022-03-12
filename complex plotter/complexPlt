@@ -1,9 +1,0 @@
-#!/bin/bash
-cd /home/jayfeng/pythonProjects/'complex plotter'
-nano setting.py
-python3 rie.py &
-python3 modular.py &
-python3 graph.py &
-python3 gra.py &
-python3 colouring.py&
-python3 log.py
