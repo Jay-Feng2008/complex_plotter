@@ -1,4 +1,6 @@
 # complex_plotter
+# Useage and images
+![ ](http://github.com/Jay-Feng2008/complex_plotter/)
 ## Installation
 
 1. Change into the installed directory:     
