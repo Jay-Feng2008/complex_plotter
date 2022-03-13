@@ -1,10 +1,13 @@
 # complex_plotter
-# Useage and images
+A python based complex plotter suitable for mac and linux systems.            
+Offers six different kinds of plot.       
+Also super easy to install.        
+## Usage and images
 Open a terminal window and type `complexPlt`, then it should open a 'nano' editor. (shown in the image)        
-![ ](http://github.com/Jay-Feng2008/complex_plotter/tree/main/complex%20plotter/setting.png)        
+![Setting panel](http://github.com/Jay-Feng2008/complex_plotter/tree/main/complex%20plotter/setting.png)        
 Type in  the parameters and save.      
 The softwere will open a series of windows as shown in the image below        
-![ ](http://github.com/Jay-Feng2008/complex_plotter/tree/main/complex%20plotter/image.png)
+![Output windows](http://github.com/Jay-Feng2008/complex_plotter/tree/main/complex%20plotter/image.png)
 ## Installation
 
 1. Change into the installed directory:     
